@@ -2,7 +2,7 @@
 
 Weather app made with ReactJS, Server side is written in C# and the  DB in SQL. Automatically recognizes user's location, based on browser's settings or IP. Weather can be searched both by location on the map or entering city in the search bar.
 
-Made using React hooks (useState, useEffect, useContext) and React context (absolutely unnecessary for a small application like this, but it was fun to learn).
+Made using React hooks (useState, useEffect, ) and React context (absolutely unnecessary for a small application like this, but it was fun to learn).
 
 
 Get 2 (two) API keys from Google Maps and 1 (one) from Open Weather Map-https://developer.accuweather.com/apis.
